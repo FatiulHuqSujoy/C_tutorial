@@ -1,0 +1,48 @@
+01. Introduction  
+02. Setting up C in Windows
+03. Setting up C in Linux
+04. Setting up Codeblocks
+05. Variables 1: Basics
+06. Variables 2: Data types
+07. Console I/O 1: Output
+08. Console I/O 2: Input
+09. Conditionals 1: If-elseIf-else
+10. Conditionals 2: Switch
+11. Loops 1: For
+12. Loops 2: While-DoWhile
+13. Loops 3: Break-GoTo-Continue
+14. Functions 1: Intuition
+15. Variables 3: Type conversions and casting
+16. Variables 4: Scopes
+17. Variables 5: Memory allocation
+18. Array 1: One dimensional
+19. Array 2: Multidimensional
+20. Array 3: Input output
+21. String 1: Basics
+22. String 2: Input output
+23. String 3: String functions
+24. Pointer 1: Basics
+25. Pointer 2: pointer functions
+26. Pointer 3: Pointer of pointers
+27. Function 2: Parameter passing: array, string, pointer
+28. Function 3: Command Line Arguments
+29. Function 4: Recursions
+30. File I/O 1: Streams
+31. File I/O 2: Basic functions
+32. Console I/O 3: Advanced output functions
+33. Console I/O 4: Advanced input functions
+34. File I/O 3: Advanced functions
+35. Structures 1: Basics
+36. Structures 2: Advanced
+37. Structures 3: Union
+
+
+Sujoy: 1,5,7,8,14,16,32,33
+Eusha: 9,10,21,22,23
+Shihab: 11,12,13
+Shuvo: 15,18,19,20,24,25,26
+Rafed: 2,3,4
+Moumita: 35,36,37,17
+Satyaki: 6,27,28,29,30,31
+Shourav: exercise codes
+
